@@ -14,26 +14,37 @@
  h1,
  h2,
  h3  {
-  text-align: center;
+  text-align:center;
  }
  
  img {
   display: block;
-  height: 1000px;
-  width: 1000px;
+  height: 1500px;
+  width: 2000px;
   margin-left: auto;
   margin-right: auto;
  }
  
  ul {
-  padding-left: 80px;
-  font-size: 30px;
+  padding-left: 50px;
+  font-size: 20px;
  }
  
  p {
   text-align: center;
   font-size: 20px;
  }
+ div.container {
+  text-align: center;
+}
+center.center {
+  display: inline-block;
+  text-align: left;
+}
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
     .card {
     width: 80%;
     margin: 40px auto;
